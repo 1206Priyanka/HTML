@@ -7,42 +7,42 @@
 		Student info about Priyanka Magar
 		<TABLE border=“4px”>
 			<TR>
-				<TD>Name:</TD>
+				<TD><B>Name:</B> </TD>
 				<TD>Priyanka</TD>
 				<TD>Bob</TD>
 				<TD>Lisa</TD>
 			</TR>
 			<TR>
- 				<TD>Job title:</TD>
+ 				<TD><B>Job title:</B></TD>
 				<TD>Student</TD>
 				<TD> Student</TD>
 				<TD> Student</TD>
 			</TR>
 			<TR>
-				<TD>email:</TD>
+				<TD><B>email:</B></TD>
 				<TD>21380172@student.uwl.ac.uk</TD>
 				<TD>12345678@student.uwl.ac.uk</TD>
 				<TD> 09876543@student.uwl.ac.uk</TD>
 			</TR>
 			<TR>
-				<TD>Course</TD>
+				<TD><B>Course</B></TD>
 				<TD>Computer Science</TD>
 				<TD>Creative Computing</TD>
 				<TD>IT&B</TD>
 			</TR>
 			<TR>
-				<TD>Hobbies:</TD>
+				<TD><B>Hobbies:</B></TD>
 				<TD>Programming</TD>
 				<TD> Basketball </TD>
 				<TD> Reading </TD>
 			<Tr>
-				<TD> Previous Experience</TD>
+				<TD> <B><EM> Previous Experience</EM> </B></TD>
 				<TD> School </TD>
 				<TD> None </TD>
 				<TD> Apprentership</TD>
 			</TR>
 			<Tr>
-				<TD>Courses and Modules </TD>
+				<TD><B>Courses and Modules <B></TD>
 					<ul>
 						<TD>
 							<li> Acedemic Performances </li>
@@ -56,7 +56,7 @@
 						</TD>
 						
 						<TD>
-							<li> Acedemic Performances </li>
+							<li> Acedemic Performances </li>      
 							<li> Introduction to Computing Technologies </li>
 							<li> Introduction to Computing Mathematics </li>
 							<li> Introduction to Software Development </li>
@@ -83,5 +83,7 @@
 					</ul>
 			</TR>
 		</TABLE>
+		
+		<A href = "file:///C:/Users/21380172/Downloads/index.html/Hello%20World.html"> Hello World </A>
 	</BODY> 
 </HTML>
